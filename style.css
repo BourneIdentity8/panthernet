@@ -1,0 +1,44 @@
+/*
+body {
+    background-image: url("gsulogoback.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+*/
+
+.forphoto {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.loginform {
+    margin: auto;
+    width: 50%;
+    border: 3px solid grey;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+
+.registerform {
+    margin: auto;
+    width: 50%;
+    border: 3px solid grey;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.flex-parent {
+    display: flex;
+  }
+  
+  .jc-center {
+    justify-content: center;
+  }
+
+  input.margin-right {
+    margin-right: 20px;
+  }
